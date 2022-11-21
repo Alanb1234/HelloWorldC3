@@ -1,10 +1,14 @@
 public class Program {
     public static void main(String[] args) {
-        int num1 = 1;
-        int num2 = 1;
-        System.out.println(num1 == num2);
-        
-        System.out.println(num1 == num2);
+
+        // Initilse the username and password
+        String username = "TheCabage123";
+        String password = "banana@321";
+
+        int i =1;
+
+
+
 
 
     }
